@@ -55,5 +55,3 @@ The Coffee Shop Sales dashboard is a powerful tool for understanding sales perfo
 
 I encourage stakeholders to explore the dashboard and utilize its features to gain valuable insights that can help drive future sales strategies and operational improvements.
 
-Getting Started:
-To access the dashboard and explore the data:
